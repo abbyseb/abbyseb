@@ -18,16 +18,18 @@ AI Engineer and postgraduate student based in Sydney. I specialize in bridging t
 - **ViTaL: Advanced Framework for Plant Disease Identification** | *CML Proceedings, 2024*
 - **Soft Robotics for Search and Rescue** | *CoRR, 2025*
 
-## 📊 GitHub Analytics & Performance
+## 🚀  Momentum & Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abbyseb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abhi's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbyseb&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abbyseb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=false" alt="Abhi's 2026 Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbyseb&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="2026 Tech Stack" height="180px" />
+</p>
+
+### 📈 Current Year Activity (2026)
+<p align="center">
+  <img src="https://metrics.lecoq.io/abbyseb?template=classic&base=activity&isocalendar=1&isocalendar.duration=1&config.timezone=Australia/Sydney&theme=tokyonight" alt="2026 Activity Map" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abbyseb&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
-### 📈 Recent Activity
-![Metrics](https://metrics.lecoq.io/abbyseb?template=classic&base=activity,community,repositories,metadata&config.timezone=Australia/Sydney)
