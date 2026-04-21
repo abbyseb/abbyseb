@@ -26,9 +26,6 @@ AI Engineer and postgraduate student based in Sydney. I specialize in bridging t
 </p>
 
 ### 📈 Current Year Activity (2026)
-<p align="center">
-  <img src="https://metrics.lecoq.io/abbyseb?template=classic&base=activity&isocalendar=1&isocalendar.duration=1&config.timezone=Australia/Sydney&theme=tokyonight" alt="2026 Activity Map" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abbyseb&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
