@@ -17,3 +17,14 @@ AI Engineer and postgraduate student based in Sydney. I specialize in bridging t
 - **Design of Capsule-Shaped All-Terrain Robot** | *IEEE Access, 2024*
 - **ViTaL: Advanced Framework for Plant Disease Identification** | *CML Proceedings, 2024*
 - **Soft Robotics for Search and Rescue** | *CoRR, 2025*
+
+## 📊 GitHub Analytics & Performance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abbyseb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abhi's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbyseb&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abbyseb&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
