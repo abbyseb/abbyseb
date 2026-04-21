@@ -1,23 +1,19 @@
+# Hi there, I'm Abhishek Sebastian 👋
 
-# Hi there! 👋 I'm Abhishek Sebastian (Ex KPMG , Ex Samsung , VIT 2024 , USYD 2027)
+AI Engineer and postgraduate student based in Sydney. I specialize in bridging the gap between deep learning research and practical, scalable applications.
 
-I'm a passionate Engineer From Chennai. Welcome to my GitHub profile!
+- 🔭 **Current Focus**: Scaling **HapnX**, a hyperlocal discovery platform for Sydney communities.
+- 🧬 **Research**: Developed spatially aware neural networks for tumor motion monitoring at the ACRF Image X Institute.
+- 🛠️ **Background**: Former Digital Risk Analyst at KPMG; experienced in cyber assurance and threat analysis.
+- ⚡ **Philosophy**: I believe in the power of "side quests" to keep life interesting and drive innovation.
 
-## About Me
-- 🎓 PG Student of Computer Science Engineering at University of Sydney, Sydney
-- 🎓 Graduate of Electronics and Communication Engineering at Vellore Institute of Technology, Chennai
-- 💻 Interested in Data science, and deployable AI
-- 🌱 Currently learning new technologies and frameworks in web development
-- ⚡️ Enthusiastic about solving real-world problems using technology
+## 🎓 Research & Publications
 
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=2FIqa2cAAAAJ)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-3421-1450)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Abhishek-Sebastian)
 
-## SoTA Paper Implemetations:
-
-Vision Transformers with Linear Projection
-
-![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vital-an-advanced-framework-for-automated/computational-efficiency-on-plant-village)
-
-
-Prion-ViT for Temperature prediction using Specklegram images.
-
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/prion-vit-prions-inspired-vision-transformers/temperature-prediction-using-specklegrams-on)](https://paperswithcode.com/sota/temperature-prediction-using-specklegrams-on?p=prion-vit-prions-inspired-vision-transformers)
+**Selected Publications:**
+- **Design of Capsule-Shaped All-Terrain Robot** | *IEEE Access, 2024*
+- **ViTaL: Advanced Framework for Plant Disease Identification** | *CML Proceedings, 2024*
+- **Soft Robotics for Search and Rescue** | *CoRR, 2025*
