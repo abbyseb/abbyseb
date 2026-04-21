@@ -28,3 +28,6 @@ AI Engineer and postgraduate student based in Sydney. I specialize in bridging t
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abbyseb&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+### 📈 Recent Activity
+![Metrics](https://metrics.lecoq.io/abbyseb?template=classic&base=activity,community,repositories,metadata&config.timezone=Australia/Sydney)
